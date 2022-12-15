@@ -26,7 +26,7 @@ import com.crowd.constant.CrowdConstant;
 
 /**
  * 尚筹网项目通用工具方法类
- * ..
+ * ..ssh
  * @author 吴彦祖
  *
  */
